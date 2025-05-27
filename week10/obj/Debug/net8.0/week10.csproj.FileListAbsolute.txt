@@ -1,0 +1,14 @@
+/Users/natang/RiderProjects/week10/week10/bin/Debug/net8.0/week10
+/Users/natang/RiderProjects/week10/week10/bin/Debug/net8.0/week10.deps.json
+/Users/natang/RiderProjects/week10/week10/bin/Debug/net8.0/week10.runtimeconfig.json
+/Users/natang/RiderProjects/week10/week10/bin/Debug/net8.0/week10.dll
+/Users/natang/RiderProjects/week10/week10/bin/Debug/net8.0/week10.pdb
+/Users/natang/RiderProjects/week10/week10/obj/Debug/net8.0/week10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natang/RiderProjects/week10/week10/obj/Debug/net8.0/week10.AssemblyInfoInputs.cache
+/Users/natang/RiderProjects/week10/week10/obj/Debug/net8.0/week10.AssemblyInfo.cs
+/Users/natang/RiderProjects/week10/week10/obj/Debug/net8.0/week10.csproj.CoreCompileInputs.cache
+/Users/natang/RiderProjects/week10/week10/obj/Debug/net8.0/week10.dll
+/Users/natang/RiderProjects/week10/week10/obj/Debug/net8.0/refint/week10.dll
+/Users/natang/RiderProjects/week10/week10/obj/Debug/net8.0/week10.pdb
+/Users/natang/RiderProjects/week10/week10/obj/Debug/net8.0/week10.genruntimeconfig.cache
+/Users/natang/RiderProjects/week10/week10/obj/Debug/net8.0/ref/week10.dll
