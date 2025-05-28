@@ -102,3 +102,4 @@
 /Users/natang/RiderProjects/week10/TestWeek10/obj/Debug/net8.0/TestWeek10.pdb
 /Users/natang/RiderProjects/week10/TestWeek10/obj/Debug/net8.0/TestWeek10.genruntimeconfig.cache
 /Users/natang/RiderProjects/week10/TestWeek10/obj/Debug/net8.0/ref/TestWeek10.dll
+/Users/natang/RiderProjects/week10/TestWeek10/obj/Debug/net8.0/TestWeek10.sourcelink.json
